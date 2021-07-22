@@ -1,0 +1,17 @@
+{
+    "name": "ivantominetc/goodbeb",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "VanillinT",
+            "email": "tominec98@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.3"
+    }
+}
